@@ -26,6 +26,6 @@ operation:
 
   outputs:
     - filename: ${filename}
-    
+
   results:
     - SUCCESS
